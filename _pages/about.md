@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.kcl.ac.uk/research/hcc'>@Human Centred Computing Research</a> | Dogs | Photography
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
-  #   <p>King's College London</p>
+  #   <p>wenqi.zhu@kcl.ac.uk</p>
   #   <p>London, UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
