@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kcl.ac.uk/research/hcc'>@Human Centred Computing Research</a> | Dogs | Photography
+subtitle: PhD student in Human-Computer Interaction & Accessibility
+# subtitle: <a href='https://www.kcl.ac.uk/research/hcc'>@Human Centred Computing Research</a> | Dogs | Photography
 
 profile:
   align: right
@@ -28,7 +29,7 @@ latest_posts:
 
 I am a first-year PhD student at [EPSRC DRIVE-Health CDT](https://www.drive-health.org.uk/) at [King's College London](https://www.kcl.ac.uk/), working with [Dr Timothy Neate](https://tdjneate.github.io/).
 
-I work at the intersection of **human–computer interaction, accessibility, and healthcare**, creating technologies that empower marginalised populations such as people with communication difficulties.
+I work at the intersection of **human–computer interaction, accessibility, and healthcare**, aiming to create technologies that empower marginalised populations such as people with communication difficulties.
 
 Before starting my PhD, I earned my MSc in Human-Computer Interaction from [UCL Interaction Centre (UCLIC)](https://www.ucl.ac.uk/uclic/), and my BSc (Hons) in Computer Science (Human-Computer Interaction) from [University of Manchester](https://www.manchester.ac.uk/).
 
